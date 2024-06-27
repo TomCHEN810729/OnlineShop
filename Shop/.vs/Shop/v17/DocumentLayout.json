@@ -1,37 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\VS\\Shop\\",
+  "WorkspaceRootPath": "C:\\OnlineShop\\Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\vs\\shop\\shop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\onlineshop\\shop\\shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|solutionrelative:shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\vs\\shop\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|solutionrelative:shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\vs\\shop\\shop\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|solutionrelative:shop\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\vs\\shop\\shop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\onlineshop\\shop\\shop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|solutionrelative:shop\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\vs\\shop\\shop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\onlineshop\\shop\\shop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\onlineshop\\shop\\shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|solutionrelative:shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\onlineshop\\shop\\shop\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|solutionrelative:shop\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\onlineshop\\shop\\shop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|solutionrelative:shop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\vs\\shop\\shop\\controllers\\roleassignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\onlineshop\\shop\\shop\\controllers\\roleassignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\roleassignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\vs\\shop\\shop\\models\\roleassignmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\onlineshop\\shop\\shop\\models\\roleassignmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|solutionrelative:shop\\models\\roleassignmentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\vs\\shop\\shop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|c:\\onlineshop\\shop\\shop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26635E5B-5E70-466D-90CC-F693C232F4DC}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,15 +46,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\OnlineShop\\Shop\\Shop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\OnlineShop\\Shop\\Shop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T05:02:01.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\VS\\Shop\\Shop\\Views\\Products\\Create.cshtml",
+              "DocumentMoniker": "C:\\OnlineShop\\Shop\\Shop\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "Shop\\Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\VS\\Shop\\Shop\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\OnlineShop\\Shop\\Shop\\Views\\Products\\Create.cshtml",
               "RelativeToolTip": "Shop\\Views\\Products\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -58,11 +75,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\VS\\Shop\\Shop\\Models\\Product.cs",
+              "DocumentMoniker": "C:\\OnlineShop\\Shop\\Shop\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Shop\\Models\\Product.cs",
-              "ToolTip": "C:\\VS\\Shop\\Shop\\Models\\Product.cs",
+              "ToolTip": "C:\\OnlineShop\\Shop\\Shop\\Models\\Product.cs",
               "RelativeToolTip": "Shop\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,23 +87,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\VS\\Shop\\Shop\\Views\\Products\\Index.cshtml",
+              "DocumentMoniker": "C:\\OnlineShop\\Shop\\Shop\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "Shop\\Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\VS\\Shop\\Shop\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\OnlineShop\\Shop\\Shop\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "Shop\\Views\\Products\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-26T07:50:27.78Z"
+              "WhenOpened": "2024-06-26T07:50:27.78Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\VS\\Shop\\Shop\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\OnlineShop\\Shop\\Shop\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Shop\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\VS\\Shop\\Shop\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\OnlineShop\\Shop\\Shop\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Shop\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAAHoAAAAAAAAAAAAUwEcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -95,11 +113,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "RoleAssignmentViewModel.cs",
-              "DocumentMoniker": "C:\\VS\\Shop\\Shop\\Models\\RoleAssignmentViewModel.cs",
+              "DocumentMoniker": "C:\\OnlineShop\\Shop\\Shop\\Models\\RoleAssignmentViewModel.cs",
               "RelativeDocumentMoniker": "Shop\\Models\\RoleAssignmentViewModel.cs",
-              "ToolTip": "C:\\VS\\Shop\\Shop\\Models\\RoleAssignmentViewModel.cs",
+              "ToolTip": "C:\\OnlineShop\\Shop\\Shop\\Models\\RoleAssignmentViewModel.cs",
               "RelativeToolTip": "Shop\\Models\\RoleAssignmentViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,11 +125,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "RoleAssignmentController.cs",
-              "DocumentMoniker": "C:\\VS\\Shop\\Shop\\Controllers\\RoleAssignmentController.cs",
+              "DocumentMoniker": "C:\\OnlineShop\\Shop\\Shop\\Controllers\\RoleAssignmentController.cs",
               "RelativeDocumentMoniker": "Shop\\Controllers\\RoleAssignmentController.cs",
-              "ToolTip": "C:\\VS\\Shop\\Shop\\Controllers\\RoleAssignmentController.cs",
+              "ToolTip": "C:\\OnlineShop\\Shop\\Shop\\Controllers\\RoleAssignmentController.cs",
               "RelativeToolTip": "Shop\\Controllers\\RoleAssignmentController.cs",
               "ViewState": "AQIAADkAAAAAAAAAAABOwEYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -119,11 +137,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\VS\\Shop\\Shop\\Program.cs",
+              "DocumentMoniker": "C:\\OnlineShop\\Shop\\Shop\\Program.cs",
               "RelativeDocumentMoniker": "Shop\\Program.cs",
-              "ToolTip": "C:\\VS\\Shop\\Shop\\Program.cs",
+              "ToolTip": "C:\\OnlineShop\\Shop\\Shop\\Program.cs",
               "RelativeToolTip": "Shop\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,11 +149,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\VS\\Shop\\Shop\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\OnlineShop\\Shop\\Shop\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Shop\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\VS\\Shop\\Shop\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\OnlineShop\\Shop\\Shop\\Controllers\\UserController.cs",
               "RelativeToolTip": "Shop\\Controllers\\UserController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

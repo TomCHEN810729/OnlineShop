@@ -11936,11 +11936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VS\\SHOP\\Shop\\Shop.csproj",
+      "projectUniqueName": "C:\\OnlineShop\\Shop\\Shop\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "C:\\VS\\SHOP\\Shop\\Shop.csproj",
+      "projectPath": "C:\\OnlineShop\\Shop\\Shop\\Shop.csproj",
       "packagesPath": "C:\\Users\\lnt\\.nuget\\packages\\",
-      "outputPath": "C:\\VS\\Shop\\Shop\\obj\\",
+      "outputPath": "C:\\OnlineShop\\Shop\\Shop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lnt\\AppData\\Roaming\\NuGet\\NuGet.Config",

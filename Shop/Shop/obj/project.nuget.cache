@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4nT3noSc9+U=",
+  "dgSpecHash": "tjom7fl8v8s=",
   "success": true,
-  "projectFilePath": "C:\\VS\\SHOP\\Shop\\Shop.csproj",
+  "projectFilePath": "C:\\OnlineShop\\Shop\\Shop\\Shop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lnt\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\lnt\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
